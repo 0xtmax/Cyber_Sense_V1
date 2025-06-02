@@ -39,6 +39,9 @@ A CSV file named like `vulnerability_news_20250523.csv` containing columns:
 - Description
 - Link
 - Published Date
+- severity
+
+  
 
 ## Author
 Jeyaradnam Tharjalan - 0xtmax
